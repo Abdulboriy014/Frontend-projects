@@ -1053,7 +1053,7 @@ footer {
 
 @font-face {
   font-family: MystiqueDarkness ;
-  src: url(/font/MystiqueDarkness.ttf);
+  src: url(./font/MystiqueDarkness.ttf);
 }
 
 @media (max-width:1920px) {
